@@ -48,8 +48,8 @@ I spent **2+ years mastering Data Structures & Algorithms (C++)**, developing st
 
 ## 🏅 Competitive Programming
 <div align="center">
-  <a href="https://codeforces.com/profile/belal211">
-    <img src="https://img.shields.io/badge/Codeforces-belal211-1f425f?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://codeforces.com/profile/mmhabsg42">
+    <img src="https://img.shields.io/badge/Codeforces-mmhabsg42-1f425f?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </div>
 
